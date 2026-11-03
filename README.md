@@ -143,7 +143,7 @@ Uses `if / else` and the modulus operator to check whether a number is divisible
 
 ### Prime Number Checker
 
-]<img width="435" height="293" alt="Screenshot 2026-11-03 at 22 57 11" src="https://github.com/user-attachments/assets/59357fdf-5966-48ec-9147-68a745cf72e0" />
+<img width="435" height="293" alt="Screenshot 2026-11-03 at 22 57 11" src="https://github.com/user-attachments/assets/59357fdf-5966-48ec-9147-68a745cf72e0" />
 
 A `for` loop tests each possible divisor, using `break` to stop as soon as one is found.
 
