@@ -119,7 +119,8 @@ Through this Python project, I strengthened my ability to:
 
 ### Reception Greeting
 
-![Reception Greeting](images/day1-greeting.png)
+![Reception Greeting]<img width="1143" height="187" alt="Screenshot 2026-11-03 at 22 44 23" src="https://github.com/user-attachments/assets/6b929ca7-feb2-4d35-ad81-7cdc2008b6cb" />
+
 
 Takes a visitor's name and age with `input()`, converts the age with `int()` and prints a personalised greeting.
 
