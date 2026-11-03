@@ -112,6 +112,15 @@ Through this Python project, I strengthened my ability to:
 - Calculating missing value proportions
 - Removing missing values with `dropna()`
 
+## 📓 Notebooks
+
+* [Python Day 1 Notebook](https://colab.research.google.com/drive/1D4EEP6gzp_Wvzt3OeM9XJcFUc1omicm6?usp=sharing)
+* [Python Day 2 Notebook](https://colab.research.google.com/drive/1atLdsA7s3oE-ePVHB6Jly3_bs5mzRBFp?usp=sharing#scrollTo=WYecctQo3gcl)
+* [Pandas DataFrames 1 Notebook](https://colab.research.google.com/drive/1vPAzk4sC1O_DdOxNHowz6lXFbP-owrzk?usp=sharing)
+* [Pandas DataFrames 2 Notebook](https://colab.research.google.com/drive/12X6uEHB-_cEoA3JCDGWIHLJ8sYCBFTRx?usp=sharing)
+* [Pandas DataFrames 3 Notebook](https://colab.research.google.com/drive/1fBz8Y-QwGr_54flYt4_V-Om8t-5Kq2_7?usp=sharing)
+
+
 ## 📸 Screenshots
 
 ### Reception Greeting
