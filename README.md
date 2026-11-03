@@ -1,158 +1,178 @@
-# 🐍 Python Project – Basics, Logic & Problem-Solving
+🐍 Python Project – Basics, Logic & Problem-Solving
 
-*A hands-on Python project demonstrating programming fundamentals, decision making, loops, and practical problem-solving.*
+A hands-on Python project demonstrating programming fundamentals, decision making, loops and practical problem-solving.
 
-## 🔍 Overview
+🔍 Overview
 
 This repository contains my Python work from Week 6 of the Data Technician programme (Day 1, Day 2 and Day 4).
 
 Across five Google Colab notebooks and a coding challenge, I practised core Python concepts including variables, user input, type conversion, conditional statements and loops.
 
-I applied these to realistic, scenario-based tasks such as calculators, converters, number checkers and pattern printing.
+I applied these to practical tasks such as calculators, converters, number checkers and pattern printing.
 
-I then moved into data analysis with Pandas, using DataFrames to explore, filter, sort and clean real datasets.
+I then moved into data analysis with Pandas, using DataFrames to explore, filter, sort and clean datasets.
 
----
+🚀 Skills Demonstrated
 
-## 🚀 Skills Demonstrated
+✔️ Python Fundamentals
 
-### ✔️ Python Fundamentals
+Variables and data types
 
-* Variables
-* `print()` output and `input()` user input
-* Type casting with `int()` and `float()`
-* Arithmetic operations
-* Floor division (`//`) and modulus (`%`)
+print() and input()
 
-### ✔️ Control Flow
+Type conversion using int() and float()
 
-* `if`, `elif` and `else` statements
-* Boolean logic and comparisons (`and`, `==`, `!=`, `<`)
-* Using modulus to test divisibility
-* `for` loops with `range()`
-* Nested `for` loops
-* Loop control (`break` and `for ... else`)
+Arithmetic operations and modulus (%)
 
-### ✔️ Problem-Solving & Logic
+✔️ Control Flow
 
-* Loop-based calculations (sum of numbers, factorial)
-* Digit manipulation (adding and reversing digits)
-* Prime number checking
-* Pattern printing
-* Input checking
+if, elif and else statements
 
-  ### ✔️ Data Manipulation & Analysis (Pandas)
+Boolean logic and comparisons
 
-* Creating DataFrames from lists, dictionaries and lists of lists
-* Importing CSV files with `pd.read_csv()`
-* Selecting columns and adding calculated columns
-* Renaming columns and setting the index
-* Filtering rows with Boolean masks (`&` and `|`)
-* Sorting with `sort_values()` and finding top values with `nlargest()` / `nsmallest()`
-* Descriptive statistics (`describe()`, `mean()`, `median()`, `value_counts()`, `corr()`)
-* Finding missing values with `isna()` / `isnull()`
-* Cleaning data with `dropna()` and `drop()`
-* Making safe copies with `.copy()`
-* Exporting data to CSV and Excel
+for loops and nested loops
 
-### ✔️ Real-World Scenarios
+Loop control using break
 
-* Reception desk greeting using a visitor's name and age
-* Tile area and cost calculator
-* Temperature and distance converters
-* "Lucky number" and "secret code" digit tools
-* Access code checker
-* Fitness tracker step total
+✔️ Problem-Solving & Logic
 
----
+Loop-based calculations (sum and factorial)
 
-## 📁 Repository Contents
+Digit manipulation
 
-* Python Day 1 notebook (Google Colab)
-* Python Day 2 notebook (Google Colab)
-* Pandas DataFrames notebooks 1, 2 and 3 (Google Colab)
-* Screenshots of code and output
+Prime number checking
 
----
+Pattern printing
 
+Input checking
 
-## 🧠 Key Learning Outcomes
+✔️ Data Manipulation & Analysis (Pandas)
+
+Creating DataFrames and importing CSV files
+
+Selecting columns and creating calculated columns
+
+Filtering and sorting data
+
+Descriptive statistics
+
+Identifying and cleaning missing values
+
+Exporting data to CSV and Excel
+
+✔️ Real-World Scenarios
+
+Reception desk greeting
+
+Tile area and cost calculator
+
+Temperature and distance converters
+
+Digit manipulation tools
+
+Access code checker
+
+Fitness tracker step total
+
+📁 Repository Contents
+
+Python Day 1 notebook
+
+Python Day 2 notebook
+
+Pandas DataFrames notebooks 1, 2 and 3
+
+Screenshots of code and output
+
+🧠 Key Learning Outcomes
 
 Through this Python project, I strengthened my ability to:
 
-* Write clean, readable Python code
-* Break down problems using logic and flow control
-* Build programs that interact with the user
-* Convert and validate input data
-* Use loops to automate repeated calculations
-* Apply Python fundamentals to realistic, scenario-based tasks
-* Load, explore, filter and sort datasets with Pandas
-* Create new columns from existing data
-* Identify and clean missing values
-* Summarise data using descriptive statistics
----
+Write clean, readable Python code
 
-## 🛠 Tools & Technologies Used
+Break down problems using logic and flow control
 
-* Python 3
-* Google Colab
-* Jupyter Notebook
+Build programs that interact with users
 
----
+Use loops to automate calculations
 
-## 📗 Exercises Covered
+Load, explore, filter and sort datasets with Pandas
 
-### Day 1 Colab Notebook
+Create calculated columns and clean missing data
 
-* Greeting with name and age (`input()`, `int()`)
-* Tile area and cost calculation
-* Celsius to Fahrenheit conversion
-* Miles and kilometres conversion
-* Adding the digits of a 3-digit number
-* Reversing a 4-digit number
+Summarise data using descriptive statistics
 
-### Day 2 Colab Notebook
+🛠 Tools & Technologies Used
 
-* Access code checker
-* Divisibility by 3 and 7
-* Sum of numbers from 1 to n
-* Prime number checker
-* Factorial calculator
-* Number staircase pattern
+Python 3
 
-### Day 4 Pandas DataFrames 1 Notebook
+Google Colab
 
-* Creating DataFrames from lists and dictionaries
-* Selecting columns and descriptive statistics
-* Adding and renaming columns
-* Product sales exercise (units sold and total revenue)
-* Exporting data to CSV and Excel
+Jupyter Notebook
 
-### Day 4 Pandas DataFrames 2 Notebook
+Pandas
 
-* Importing the mpg (car fuel economy) dataset
-* Calculated columns (average mileage and weighted fuel economy)
-* Filtering with Boolean masks, `&` and `|`
-* Sorting and top 5 / bottom 5 with `nlargest()` and `nsmallest()`
-* Correlation between cylinders, engine size and mileage
-* Counting automatic cars and the percentage of subcompacts
+📗 Exercises Covered
 
-### Day 4 Pandas DataFrames 3 Notebook
+Day 1 Colab Notebook
 
-* Importing the penguins dataset
-* Counting missing values by column
-* Proportion of missing values by row
-* Removing missing values with `dropna()`
+Greeting with name and age
 
+Tile area and cost calculation
 
-## 📓 Notebooks
+Celsius to Fahrenheit conversion
 
-* [Python Day 1 Notebook](https://colab.research.google.com/drive/1D4EEP6gzp_Wvzt3OeM9XJcFUc1omicm6?usp=sharing)
-* [Python Day 2 Notebook](https://colab.research.google.com/drive/1atLdsA7s3oE-ePVHB6Jly3_bs5mzRBFp?usp=sharing#scrollTo=WYecctQo3gcl)
-* * [Pandas DataFrames 1 Notebook](https://colab.research.google.com/drive/1vPAzk4sC1O_DdOxNHowz6lXFbP-owrzk?usp=sharing)
-* [Pandas DataFrames 2 Notebook](https://colab.research.google.com/drive/12X6uEHB-_cEoA3JCDGWIHLJ8sYCBFTRx?usp=sharing)
-* [Pandas DataFrames 3 Notebook](https://colab.research.google.com/drive/1fBz8Y-QwGr_54flYt4_V-Om8t-5Kq2_7?usp=sharing)
+Miles and kilometres conversion
 
+Adding and reversing digits
+
+Day 2 Colab Notebook
+
+Access code checker
+
+Divisibility by 3 and 7
+
+Sum of numbers from 1 to n
+
+Prime number checker
+
+Factorial calculator
+
+Number staircase pattern
+
+Day 4 Pandas DataFrames 1
+
+Creating DataFrames from lists and dictionaries
+
+Selecting columns and descriptive statistics
+
+Adding and renaming columns
+
+Product sales analysis
+
+Exporting data to CSV and Excel
+
+Day 4 Pandas DataFrames 2
+
+Importing the mpg dataset
+
+Creating calculated columns
+
+Filtering and sorting data
+
+Finding top and bottom values
+
+Analysing fuel economy and vehicle categories
+
+Day 4 Pandas DataFrames 3
+
+Importing the penguins dataset
+
+Identifying missing values
+
+Calculating missing value proportions
+
+Removing missing values with dropna()
 
 ## 📸 Screenshots
 
