@@ -55,7 +55,6 @@ I applied these to realistic, scenario-based tasks such as calculators, converte
 
 * Python Day 1 notebook (Google Colab)
 * Python Day 2 notebook (Google Colab)
-* FizzBuzz implementation
 * Screenshots of code and output
 
 ---
@@ -101,13 +100,7 @@ Through this Python project, I strengthened my ability to:
 * Factorial calculator
 * Number staircase pattern
 
-### FizzBuzz Challenge
 
-* Conditional logic
-* Loops
-* Modulus operations
-
----
 
 ## 📓 Notebooks
 
