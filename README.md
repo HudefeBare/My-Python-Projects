@@ -1,8 +1,8 @@
-🐍 Python Project – Basics, Logic & Problem-Solving
+# 🐍 Python Project – Basics, Logic & Problem-Solving
 
-A hands-on Python project demonstrating programming fundamentals, decision making, loops and practical problem-solving.
+*A hands-on Python project demonstrating programming fundamentals, decision making, loops and practical problem-solving.*
 
-🔍 Overview
+## 🔍 Overview
 
 This repository contains my Python work from Week 6 of the Data Technician programme (Day 1, Day 2 and Day 4).
 
@@ -12,167 +12,105 @@ I applied these to practical tasks such as calculators, converters, number check
 
 I then moved into data analysis with Pandas, using DataFrames to explore, filter, sort and clean datasets.
 
-🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
-✔️ Python Fundamentals
+### ✔️ Python Fundamentals
+- Variables and data types
+- `print()` and `input()`
+- Type conversion using `int()` and `float()`
+- Arithmetic operations and modulus (`%`)
 
-Variables and data types
+### ✔️ Control Flow
+- `if`, `elif` and `else` statements
+- Boolean logic and comparisons
+- `for` loops and nested loops
+- Loop control using `break`
 
-print() and input()
+### ✔️ Problem-Solving & Logic
+- Loop-based calculations (sum and factorial)
+- Digit manipulation
+- Prime number checking
+- Pattern printing
+- Input checking
 
-Type conversion using int() and float()
+### ✔️ Data Manipulation & Analysis (Pandas)
+- Creating DataFrames and importing CSV files
+- Selecting columns and creating calculated columns
+- Filtering and sorting data
+- Descriptive statistics
+- Identifying and cleaning missing values
+- Exporting data to CSV and Excel
 
-Arithmetic operations and modulus (%)
+### ✔️ Real-World Scenarios
+- Reception desk greeting
+- Tile area and cost calculator
+- Temperature and distance converters
+- Digit manipulation tools
+- Access code checker
+- Fitness tracker step total
 
-✔️ Control Flow
+## 📁 Repository Contents
 
-if, elif and else statements
+- Python Day 1 notebook
+- Python Day 2 notebook
+- Pandas DataFrames notebooks 1, 2 and 3
+- Screenshots of code and output
 
-Boolean logic and comparisons
-
-for loops and nested loops
-
-Loop control using break
-
-✔️ Problem-Solving & Logic
-
-Loop-based calculations (sum and factorial)
-
-Digit manipulation
-
-Prime number checking
-
-Pattern printing
-
-Input checking
-
-✔️ Data Manipulation & Analysis (Pandas)
-
-Creating DataFrames and importing CSV files
-
-Selecting columns and creating calculated columns
-
-Filtering and sorting data
-
-Descriptive statistics
-
-Identifying and cleaning missing values
-
-Exporting data to CSV and Excel
-
-✔️ Real-World Scenarios
-
-Reception desk greeting
-
-Tile area and cost calculator
-
-Temperature and distance converters
-
-Digit manipulation tools
-
-Access code checker
-
-Fitness tracker step total
-
-📁 Repository Contents
-
-Python Day 1 notebook
-
-Python Day 2 notebook
-
-Pandas DataFrames notebooks 1, 2 and 3
-
-Screenshots of code and output
-
-🧠 Key Learning Outcomes
+## 🧠 Key Learning Outcomes
 
 Through this Python project, I strengthened my ability to:
 
-Write clean, readable Python code
+- Write clean, readable Python code
+- Break down problems using logic and flow control
+- Build programs that interact with users
+- Use loops to automate calculations
+- Load, explore, filter and sort datasets with Pandas
+- Create calculated columns and clean missing data
+- Summarise data using descriptive statistics
 
-Break down problems using logic and flow control
+## 🛠 Tools & Technologies Used
 
-Build programs that interact with users
+- Python 3
+- Google Colab
+- Jupyter Notebook
+- Pandas
 
-Use loops to automate calculations
+## 📗 Exercises Covered
 
-Load, explore, filter and sort datasets with Pandas
+### Day 1 Colab Notebook
+- Greeting with name and age
+- Tile area and cost calculation
+- Celsius to Fahrenheit conversion
+- Miles and kilometres conversion
+- Adding and reversing digits
 
-Create calculated columns and clean missing data
+### Day 2 Colab Notebook
+- Access code checker
+- Divisibility by 3 and 7
+- Sum of numbers from 1 to n
+- Prime number checker
+- Factorial calculator
+- Number staircase pattern
 
-Summarise data using descriptive statistics
+### Day 4 Pandas DataFrames 1
+- Creating DataFrames from lists and dictionaries
+- Selecting columns and descriptive statistics
+- Adding and renaming columns
+- Product sales analysis
+- Exporting data to CSV and Excel
 
-🛠 Tools & Technologies Used
+### Day 4 Pandas DataFrames 2
+- Importing the mpg dataset
+- Creating calculated columns
+- Filtering and sorting data
+- Finding top and bottom values
+- Analysing fuel economy and vehicle categories
 
-Python 3
-
-Google Colab
-
-Jupyter Notebook
-
-Pandas
-
-📗 Exercises Covered
-
-Day 1 Colab Notebook
-
-Greeting with name and age
-
-Tile area and cost calculation
-
-Celsius to Fahrenheit conversion
-
-Miles and kilometres conversion
-
-Adding and reversing digits
-
-Day 2 Colab Notebook
-
-Access code checker
-
-Divisibility by 3 and 7
-
-Sum of numbers from 1 to n
-
-Prime number checker
-
-Factorial calculator
-
-Number staircase pattern
-
-Day 4 Pandas DataFrames 1
-
-Creating DataFrames from lists and dictionaries
-
-Selecting columns and descriptive statistics
-
-Adding and renaming columns
-
-Product sales analysis
-
-Exporting data to CSV and Excel
-
-Day 4 Pandas DataFrames 2
-
-Importing the mpg dataset
-
-Creating calculated columns
-
-Filtering and sorting data
-
-Finding top and bottom values
-
-Analysing fuel economy and vehicle categories
-
-Day 4 Pandas DataFrames 3
-
-Importing the penguins dataset
-
-Identifying missing values
-
-Calculating missing value proportions
-
-Removing missing values with dropna()
+### Day 4 Pandas DataFrames 3
+- Importing the penguins dataset
+- Identifying missing values
+- Calculating missing value proportions
+- Removing missing values with `dropna()`
 
 ## 📸 Screenshots
 
