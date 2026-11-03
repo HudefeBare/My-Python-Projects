@@ -111,8 +111,8 @@ Through this Python project, I strengthened my ability to:
 
 ## 📓 Notebooks
 
-* [Python Day 1 Notebook](https://colab.research.google.com/drive/1atLdsA7s3oE-ePVHB6Jly3_bs5mzRBFp?usp=sharing#scrollTo=jNDdFa948_PH))
-* [Python Day 2 Notebook](https://colab.research.google.com/drive/1atLdsA7s3oE-ePVHB6Jly3_bs5mzRBFp?usp=sharing)
+* [Python Day 1 Notebook](https://colab.research.google.com/drive/1D4EEP6gzp_Wvzt3OeM9XJcFUc1omicm6?usp=sharing)
+* [Python Day 2 Notebook][https://colab.research.google.com/drive/1atLdsA7s3oE-ePVHB6Jly3_bs5mzRBFp?usp=sharing)
 
 ---
 
@@ -167,3 +167,4 @@ Loops through 1 to 100, printing "fizz", "buzz" or "fizzbuzz" using `if / elif /
 **Hudefe Bare**
 
 Data Technician bootcamp learner building practical skills in Python, data and analytics through hands-on exercises.
+
