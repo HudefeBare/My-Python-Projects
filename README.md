@@ -111,7 +111,7 @@ Through this Python project, I strengthened my ability to:
 
 ## 📓 Notebooks
 
-* [Python Day 1 Notebook]([https://colab.research.google.com/drive/1D4EEP6gzp_Wvzt3OeM9XJcFUc1omicm6?usp=sharing)
+* [Python Day 1 Notebook](https://colab.research.google.com/drive/1D4EEP6gzp_Wvzt3OeM9XJcFUc1omicm6?usp=sharing)
 * [Python Day 2 Notebook](https://colab.research.google.com/drive/1atLdsA7s3oE-ePVHB6Jly3_bs5mzRBFp?usp=sharing#scrollTo=WYecctQo3gcl)
 
 
