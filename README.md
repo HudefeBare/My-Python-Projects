@@ -4,7 +4,7 @@
 
 ## 🔍 Overview
 
-This repository contains my Python work from Week 6 of the Data Technician programme (Day 1, Day 2 and Day 4).
+This repository contains my Python work from Week 6 of the Data Technician programme.
 
 Across five Google Colab notebooks and a coding challenge, I practised core Python concepts including variables, user input, type conversion, conditional statements and loops.
 
@@ -45,7 +45,6 @@ I then moved into data analysis with Pandas, using DataFrames to explore, filter
 - Reception desk greeting
 - Tile area and cost calculator
 - Temperature and distance converters
-- Digit manipulation tools
 - Access code checker
 - Fitness tracker step total
 
@@ -62,7 +61,6 @@ Through this Python project, I strengthened my ability to:
 
 - Write clean, readable Python code
 - Break down problems using logic and flow control
-- Build programs that interact with users
 - Use loops to automate calculations
 - Load, explore, filter and sort datasets with Pandas
 - Create calculated columns and clean missing data
@@ -180,7 +178,7 @@ Imports the mpg dataset and creates an `average_mileage` column by averaging cit
 
 ### Boolean Columns & Percentages
 
-]<img width="790" height="163" alt="Screenshot 2026-11-04 at 00 07 25" src="https://github.com/user-attachments/assets/3e6a8866-791c-4669-ad22-44915b6878b6" />
+<img width="790" height="163" alt="Screenshot 2026-11-04 at 00 07 25" src="https://github.com/user-attachments/assets/3e6a8866-791c-4669-ad22-44915b6878b6" />
 
 
 Counts automatic vehicles and calculates what percentage of the 234 cars are subcompacts.
