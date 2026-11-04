@@ -175,7 +175,8 @@ Uses `describe()` on the price column to show the count, mean, standard deviatio
 
 ### Adding a Calculated Column
 
-![Adding a Calculated Column]<img width="768" height="296" alt="Screenshot 2026-11-04 at 00 04 47" src="https://github.com/user-attachments/assets/c5eea9de-f6ac-4581-a006-7a041b96fad0" />
+![Adding a Calculated Column]<img width="918" height="490" alt="Screenshot 2026-11-04 at 00 14 59" src="https://github.com/user-attachments/assets/731e0c57-e0c3-48e4-ae00-93e4000573d0" />
+
 
 
 Imports the mpg dataset and creates an `average_mileage` column by averaging city and highway miles across each row.
