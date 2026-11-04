@@ -161,43 +161,40 @@ Nested `for` loops print a staircase pattern, with each row adding one more numb
 
 ### Creating a DataFrame
 
-![Creating a DataFrame]<img width="512" height="346" alt="Screenshot 2026-11-03 at 23 54 48" src="https://github.com/user-attachments/assets/32ea105c-75ac-4d85-85d1-415dabec909d" />
+<img width="512" height="346" alt="Screenshot 2026-11-03 at 23 54 48" src="https://github.com/user-attachments/assets/32ea105c-75ac-4d85-85d1-415dabec909d" />
 
 
 Builds a shopping basket DataFrame from a list of dictionaries, where each dictionary becomes a row.
 
 ### Descriptive Statistics
 
-![Descriptive Statistics]<img width="406" height="350" alt="Screenshot 2026-11-03 at 23 56 33" src="https://github.com/user-attachments/assets/73f53450-dbeb-44c6-90df-8fdbfa3b7e70" />
-
+<img width="406" height="350" alt="Screenshot 2026-11-03 at 23 56 33" src="https://github.com/user-attachments/assets/73f53450-dbeb-44c6-90df-8fdbfa3b7e70" />
 
 Uses `describe()` on the price column to show the count, mean, standard deviation, quartiles, minimum and maximum.
 
 ### Adding a Calculated Column
 
-![Adding a Calculated Column]<img width="918" height="490" alt="Screenshot 2026-11-04 at 00 14 59" src="https://github.com/user-attachments/assets/731e0c57-e0c3-48e4-ae00-93e4000573d0" />
-
-
+<img width="918" height="490" alt="Screenshot 2026-11-04 at 00 14 59" src="https://github.com/user-attachments/assets/731e0c57-e0c3-48e4-ae00-93e4000573d0" />
 
 Imports the mpg dataset and creates an `average_mileage` column by averaging city and highway miles across each row.
 
 ### Boolean Columns & Percentages
 
-![Boolean Columns and Percentages]<img width="790" height="163" alt="Screenshot 2026-11-04 at 00 07 25" src="https://github.com/user-attachments/assets/3e6a8866-791c-4669-ad22-44915b6878b6" />
+]<img width="790" height="163" alt="Screenshot 2026-11-04 at 00 07 25" src="https://github.com/user-attachments/assets/3e6a8866-791c-4669-ad22-44915b6878b6" />
 
 
 Counts automatic vehicles and calculates what percentage of the 234 cars are subcompacts.
 
 ### Weighted Average Column
 
-![Weighted Average Column]<img width="1068" height="555" alt="Screenshot 2026-11-04 at 00 09 57" src="https://github.com/user-attachments/assets/487cbf97-e221-488c-ae6b-cbba86c347ce" />
+<img width="1068" height="555" alt="Screenshot 2026-11-04 at 00 09 57" src="https://github.com/user-attachments/assets/487cbf97-e221-488c-ae6b-cbba86c347ce" />
 
 
 Creates a `fuel_economy` column weighting city mileage at 55% and highway mileage at 45%.
 
 ### Missing Values
 
-![Missing Values] <img width="558" height="406" alt="Screenshot 2026-11-04 at 00 12 02" src="https://github.com/user-attachments/assets/0809bee3-414c-4cf1-89af-b04781418eb9" />
+ <img width="558" height="406" alt="Screenshot 2026-11-04 at 00 12 02" src="https://github.com/user-attachments/assets/0809bee3-414c-4cf1-89af-b04781418eb9" />
 
 
 Reads the penguins dataset and counts the missing values in each column using `isnull().sum()`.
